@@ -1,0 +1,49 @@
+[33mcommit 3abedb903bdb50b749ec667ad553931b04bdbf11[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: pranali <pranali@gmail.com>
+Date:   Wed Apr 21 02:14:06 2021 +0000
+
+    Revert "test revert"
+    
+    This reverts commit 6ea46fe0575269361f143f663d40a62f051afd3b.
+
+[33mcommit 6ea46fe0575269361f143f663d40a62f051afd3b[m
+Author: pranali <pranali@gmail.com>
+Date:   Wed Apr 21 02:13:36 2021 +0000
+
+    test revert
+
+[33mcommit d514efd6597ba8593126e51fa6f7fe8c09a051be[m
+Author: pranali <pranali@gmail.com>
+Date:   Tue Apr 20 17:05:43 2021 +0000
+
+    test multiple files4
+
+[33mcommit 5b3e68ef3d97356c4e6ab4ab753d840a986291b4[m
+Author: pranali <pranali@gmail.com>
+Date:   Tue Apr 20 16:57:19 2021 +0000
+
+    test multiple files3
+
+[33mcommit 018054abe2ec8e18e18bc5cc8693c50dd1451229[m
+Author: pranali <pranali@gmail.com>
+Date:   Tue Apr 20 16:40:41 2021 +0000
+
+    test multiple files
+
+[33mcommit c2bbfe2bc0d3d21f810e58888ef3200db1ea5b81[m
+Author: pranali <pranali@gmail.com>
+Date:   Tue Apr 20 03:25:49 2021 +0000
+
+    added gitignore
+
+[33mcommit c4ea0780e187b1e53e873531eced27260a62f6f4[m
+Author: pranali <pranali@gmail.com>
+Date:   Tue Apr 20 03:17:22 2021 +0000
+
+    new changes
+
+[33mcommit e6c2506505947cff7b39bb96c5533190efe25668[m
+Author: pranali <pranali@gmail.com>
+Date:   Tue Apr 20 03:14:39 2021 +0000
+
+    new files
